@@ -12,4 +12,4 @@ To create an environment, please execute `conda env create -f environment.yml` a
 ## Creating PR
 
 Whenever you are pushing new changes to the repo, please consider creating a new branch, which can be done using the command
-`git branch -b `. The branch name can be related to your Trello task.
+`git checkout -b <branch_name> `. The branch name can be related to your Trello task.
