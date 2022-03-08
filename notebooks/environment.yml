@@ -204,4 +204,5 @@ dependencies:
   - zipp=3.7.0
   - zlib=1.2.11
   - zstd=1.4.9
+  - leidenalg=0.8.9
 prefix: /home/ubuntu/anaconda3/envs/etcembly-group1
